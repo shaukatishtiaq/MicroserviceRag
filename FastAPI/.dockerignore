@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.dockerignore
+Dockerfile
+.git
+.gitignore
+resource/
+chromadb/

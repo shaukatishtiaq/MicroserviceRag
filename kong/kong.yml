@@ -1,0 +1,22 @@
+_format_version: "3.0"
+_transform: true
+
+services:
+- host: 192.168.29.179
+  name: application_service
+  port: 8080
+  protocol: http
+  routes:
+  - name: application-route
+    paths:
+    - /api
+    strip_path: true
+- host: 192.168.29.179
+  name: rag_service
+  port: 8081
+  protocol: http
+  routes:
+  - name: rag-route
+    paths:
+    - /rag
+    strip_path: true
