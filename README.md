@@ -1,4 +1,4 @@
-![localhost_8080_swagger-ui_index html](https://github.com/user-attachments/assets/99417c7c-c803-4194-beae-d69d028d29ee)# 🛠️ RAG Microservice Application
+🛠️ RAG Microservice Application
 
 This is a microservice-based Retrieval-Augmented Generation (RAG) application built using **Spring Boot** and **FastAPI**, fully containerized with **Docker Compose**.
 
