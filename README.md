@@ -153,9 +153,9 @@ This project uses **Docker Compose** to spin up all necessary services:
 | **application**     | Spring Boot ApplicationService               | 8080                          |
 | **gateway**         | Kong API Gateway                              | 8000, 8443, 8001, 8444, etc.   |
 
-![localhost_8080_swagger-ui_index html](https://github.com/user-attachments/assets/98a95589-6a6d-4879-8365-1ddfcfd4f648)
+![Spring Boot Docs](https://github.com/user-attachments/assets/98a95589-6a6d-4879-8365-1ddfcfd4f648)
 
-![localhost_8081_docs](https://github.com/user-attachments/assets/6fa8bc42-7c72-4613-b634-109e71ccd0fb)
+![Fast API docs](https://github.com/user-attachments/assets/6fa8bc42-7c72-4613-b634-109e71ccd0fb)
 
 
 Services are connected via the `application-network`.
