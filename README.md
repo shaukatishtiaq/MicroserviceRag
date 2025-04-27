@@ -1,4 +1,4 @@
-🛠️ RAG Microservice Application
+## 🛠️ RAG Microservice Application
 
 This is a microservice-based Retrieval-Augmented Generation (RAG) application built using **Spring Boot** and **FastAPI**, fully containerized with **Docker Compose**.
 
